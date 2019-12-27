@@ -1,2 +1,6 @@
 # misc
-Miscellaneous technologies
+Miscellaneous technologies:
+  - javascript
+  - Graph Databases
+  - etc.
+  
