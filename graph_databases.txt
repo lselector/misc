@@ -1,0 +1,22 @@
+
+neo4j-vs-orientdb
+
+JanusGraph (2017)
+ - https://janusgraph.org/
+Fork from TitanDB (2012)
+Which was acquired by Data Stax
+   https://en.wikipedia.org/wiki/DataStax
+Uses native gremlin drivers (Java)
+Gremlin is from Tinkerpop
+ - http://tinkerpop.apache.org/
+
+Orientdb - multi-modal database
+Proprietary query api
+    https://orientdb.org/
+
+RDF index
+RDF = Resource Description Framework - a graph data modeli
+      that formally describes the semantics, or meaning of information. 
+      It also represents metadata, that is, data about data. 
+      RDF consists of triples. ... i
+      The parts of a triple (subject, predicate, object) represent links in a graph.
