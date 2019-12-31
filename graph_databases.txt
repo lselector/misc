@@ -1,5 +1,12 @@
 
-neo4j-vs-orientdb
+neo4j vs orientdb
+The comparisons are clearly in favor of Neo4j. 
+The only thing that sets OrientDB apart is that 
+it's a "jack of all trades": 
+  it's Document store, Graph DBMS, and Key-value store
+  
+ - https://stackshare.io/stackups/neo4j-vs-orientdb
+ - https://db-engines.com/en/system/Neo4j%3BOrientDB
 
 JanusGraph (2017)
  - https://janusgraph.org/
