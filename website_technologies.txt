@@ -1,0 +1,100 @@
+Website building frameworks.
+
+ 
+======================
+In front of your web application you may have a load balancer
+   https://docs.aws.amazon.com/AmazonECS/latest/developerguide/load-balancer-types.html
+ 
+You may also use Nginx to route requests to application servers and to serve static html pages:
+   https://en.wikipedia.org/wiki/Nginx
+ 
+So for your static website all you need is nginx. And some responsive HTML templates.
+ 
+======================
+For active content you will need an App. Server / Web Server.
+Look at the list of different web servers at the bottom of this page:
+  -  https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface
+  -  https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface#WSGI-compatible_applications_and_frameworks
+ 
+======================
+Some of them are small and commonly used for prototyping,
+For example uWSGI + Flask:
+       https://en.wikipedia.org/wiki/UWSGI
+       https://en.wikipedia.org/wiki/Flask_(web_framework)
+ 
+======================
+We have discussed several technologies to start prototyping:
+  - Python-based (Django, Flask, gunicorn, etc.)
+  - node.js + TypeScript
+        https://en.wikipedia.org/wiki/TypeScript
+  - Flutter
+        https://en.wikipedia.org/wiki/Flutter_(software)
+ 
+Any technology may be OK for fast prototyping.
+
+On the other side eventually your web site(s) 
+will have to handle things like authentication, sessions, 
+caching, etc. To handle all of these you can use Django/Python:
+    https://en.wikipedia.org/wiki/Django_(web_framework)
+    https://www.django-rest-framework.org/
+ 
+Django can scale, it has good support for authentication, 
+sessions, caching, etc. And it has many 3rd party frameworks 
+and modules which you can use as needed.
+ 
+======================
+Yet another question, which tools to use for front-end development.
+ 
+If you want to have a static website – all you need is Nginx and some
+HTML Templates which are responsive (change their look depending on the device).
+ 
+You can google for something like this:
+      mobile compatible website template free download
+      mobile html templates
+      responsive website templates
+      etc.
+ 
+======================
+If you need some custom front-end behaviors,
+you may need to do javascript coding using 
+JavaScript framework(s). 
+This is a big and fast-changing pool of tools/frameworks.
+Here are some keywords to google for:
+ 
+    Vue.js, Reactjs, Angular, NativeScript.org
+    React native , Typescript
+    Redox - state Management in react
+     
+    Mobile templates
+    Shopify templates
+    Loopback.io - uses typescript
+    form.io - very good, uses mongo.db, opensource
+    heroku.com
+    Swagger.io
+    Node Express - expresses.com
+    Yeoman.io
+    Mustache.github.io
+    Kaleguy.github.io
+    Fiddler
+     
+    Vue starter project
+    Cli.vuejs.org
+ 
+======================
+If you need to create and manipulate custom widgets in the browser,
+then Flutter may be a natural choice
+ 
+======================
+Note – you don’t have to use the same framework for all your websites
+Or for all parts of your website(s).
+In the same website you can use different technologies:
+     you may use static pages
+     you may use some simple pages using Vue.js, etc.
+     you may use some Flutter pages (widgets, …)
+ 
+======================
+ 
+--
+Warm Regards
+Lev Selector
+917-310-0088 Android Phone
