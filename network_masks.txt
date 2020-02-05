@@ -1,0 +1,37 @@
+
+
+CIDR = Classless Inter-Domain Routing
+
+https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing
+
+Question:
+  How to get the subnet in CIDR notation for a range of IP addresses?
+
+Here is stackoverflow:
+
+https://stackoverflow.com/questions/24214441/ip-range-to-cidr-conversion-in-python
+
+Here are my tests:
+
+pip install netaddr
+
+ipython
+
+import netaddr
+ip1 = '123.123.123.225'
+ip2 = '123.123.123.226'
+cidrs = netaddr.iprange_to_cidrs(ip1,ip2)
+print(cidrs)
+
+Out[5]: [IPNetwork('123.123.123.225/32'), IPNetwork('123.123.123.226/32')]
+
+
+
+import ipaddress
+ipv4_1 = ipaddress.IPv4Address(ip1)
+ipv4_2 = ipaddress.IPv4Address(ip2)
+cidrs = [ipaddr for ipaddr in ipaddress.summarize_address_range(ipv4_1, ipv4_2)]
+print(cidrs)
+
+Out[9]: [IPv4Network('123.123.123.225/32'), IPv4Network('123.123.123.226/32')]
+
