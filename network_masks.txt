@@ -23,8 +23,11 @@ ip2 = '123.123.123.226'
 cidrs = netaddr.iprange_to_cidrs(ip1,ip2)
 print(cidrs)
 
-Out[5]: [IPNetwork('123.123.123.225/32'), IPNetwork('123.123.123.226/32')]
+Out: [IPNetwork('123.123.123.225/32'), IPNetwork('123.123.123.226/32')]
 
+netaddr.spanning_cidr([ip1,ip2])
+
+Out: IPNetwork('123.123.123.224/30')
 
 
 import ipaddress
@@ -33,5 +36,8 @@ ipv4_2 = ipaddress.IPv4Address(ip2)
 cidrs = [ipaddr for ipaddr in ipaddress.summarize_address_range(ipv4_1, ipv4_2)]
 print(cidrs)
 
-Out[9]: [IPv4Network('123.123.123.225/32'), IPv4Network('123.123.123.226/32')]
+Out: [IPv4Network('123.123.123.225/32'), IPv4Network('123.123.123.226/32')]
+
+ipaddress.IPv4Network('123.123.123.224/30').broadcast_address
+Out: IPv4Address('123.123.123.227')
 
