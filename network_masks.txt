@@ -85,12 +85,12 @@ ipn = ipaddress.IPv4Network('123.123.123.224/30')
 
 print(ipn.network_address.compressed)   # '123.123.123.224'
 print(ipn.broadcast_address.compressed) # '123.123.123.227'
+print(ipn.netmask.compressed)           # '255.255.255.252'
+print(ipn.hostmask.compressed)          # '0.0.0.3'
 for ip in ipn.hosts(): 
     print(ip.compressed)
 Out:
   123.123.123.225
   123.123.123.226
 
-ipn.netmask.compressed  # '255.255.255.252'
-ipn.hostmask.compressed # '0.0.0.3'
 # -----------------------------------------------
