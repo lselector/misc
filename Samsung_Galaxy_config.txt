@@ -1,0 +1,111 @@
+Samsung Galaxy Note 10 configuration
+December 2019
+----------------------------
+Note - do not install Samsung (security)
+  system updates until you do backup.
+Note - when selecting PIN, click an option 
+  "Confirm PIN without tapping OK"
+----------------------------
+Normally to answer the phone you need to swipe 
+button to center of screen (if big buttons),
+or simply press (if small "buttons"). 
+You can configure phone to always use a single 
+tap by enabling "assistant menu":
+
+Single tap to answer
+      Settings 
+        -> Accessibility 
+          -> Interaction and dexterity  
+            -> Assistant menu [on] 
+              -> Single tap to swipe [on] 
+
+Note - this setting will keep a small round 
+"assistant menu" button floating around. 
+To remove it, press it - and drug to the "X" button. 
+It will probably re-appear twice a day,
+you will have to remove it again.
+----------------------------
+** Home screen(s) 
+** 3 buttons at bottom (recent, home, prev)
+** apps screen(s) - swipe up or down
+** Notification Panel - swipe from top (1,2 times)
+** screen timeout
+** Home widget clock and weather
+----------------------------
+** long-press on home screen, and select "Home screen settings" 
+   Then in "Home screen layout" select "Home screen only" - and "Apply"
+----------------------------
+** copy contacts from iPhone (browser on laptop):
+export all contacts into VCF file 
+(in icloud.com contacts click on little gear 
+at lower left to select all and export), 
+then go to contacts.google.com and import.
+----------------------------
+** Amazon, Amazon prime
+** Facebook, FB Messenger, Instagram
+** Wazer, WhatsApp, Linkedin
+** Life360, AllTrails, Clock
+** Google photos, Firefox, DailyDozen
+** LastPass, LastPass Authenticator – Amazon
+** Calculator, Spotify, TurboScan
+** Twitter, Telegram, Medium, Netflix
+** Viber, Chase, MyVerizon
+** Smart Recorder – by SmartMob
+** Google Hangouts, Google Hangouts dialer 
+** "Simpler Dialer"
+** Skype
+** Citymapper, Transit, "Offline Maps & Navigation"
+** Smart Recorder – by SmartMob
+** Weather Pro ($3.99)
+----------------------------
+** mail for pipeline
+** youtube videos download
+** gdocs mycalendar icon
+----------------------------
+Nicolai 
+  - removed setting to reset after 15 failed unlock tries
+  - side key setting: double-press: launch camera
+  - changed icon grid to allow more icons
+  - make search field smaller on home screen
+  - changed wallpaper
+  - removed some apps
+  - switched some apps from Samsung to Google
+  - customized some menus
+  - changed keyboard to Gboard, customized
+  - added Russian keyboard
+  - turned of Bixby (Samsung’s voice assist)
+  - set time clock to 24 hour
+  - removed Instagram presets in camera 
+  - smart unlock in trusted places
+  - Google board, translate, AR, 
+  - Coogle  Calendar, Calculator, Contacts
+** Edge Panel - disable in Settings
+----------------------------
+** Backup - in Settings – to Google
+** Backup to laptop Smart Switch
+   (install Smart Switch on laptop, follow directions)
+** Software system updates
+** Settings 
+     -> Auto Optimization ON
+     - Settings 
+       -> Device care - Optimize manually (if needed)
+----------------------------
+** screen capture testing (Vol-down + power)
+** Google File
+----------------------------
+** phone speed dial (1,2 digit - long-hold on last digit)
+** phone emergency group
+** Notification Panel at top - added brightness slider
+----------------------------
+** activate "Developer Options" in Settings
+  - go to "About phone", Software information" 
+    and repeatedly tap on "Build number"
+** Developer Options - reduce Window animation scale to 0.5x
+** Developer Options - reduce Transition animation scale to 0.5x
+----------------------------
+** researched - but didn't find how to install 
+  custom widgets on Lock screen. 
+  Currently show Clock. 
+  Swiping to side shows weather.
+----------------------------
+NEXT: see in separate doc
