@@ -18,6 +18,50 @@ Standard steps:
    make test
    make install
 
+# -----------------------------------------------
+Here are some other tools:
+# -----------------------------------------------
+OS X SCons and CMake
+  - https://www.scons.org/
+  SCons is an Open Source software construction tool. 
+  Think of SCons as an improved, cross-platform substitute 
+  for the classic Make utility with integrated functionality 
+  similar to autoconf/automake and compiler caches such as ccache. 
+  In short, SCons is an easier, more reliable and faster way to build software.
+
+# -----------------------------------------------
+Ansible 
+  - https://www.ansible.com/
+  - https://github.com/ansible/ansible
+  Ansible is a radically simple IT automation platform that makes 
+  your applications and systems easier to deploy.
+
+# -----------------------------------------------
+CFEngine
+  - https://cfengine.com/
+  - https://github.com/cfengine/core
+  CFEngine 3 is a popular open source configuration management system
+
+# -----------------------------------------------
+Chef
+  - http://www.chef.io/chef/
+  - https://github.com/chef/chef
+  A systems integration framework ..
+
+# -----------------------------------------------
+Puppet
+  - https://puppet.com/
+  - https://github.com/puppetlabs/puppet
+  Puppet, an automated administrative engine ...
+
+# -----------------------------------------------
+Salt
+  - https://www.saltstack.com/
+  - https://github.com/saltstack/salt
+  Software to automate the management and configuration of any 
+  infrastructure or application at scale
+
+# -----------------------------------------------
 Here are some standard tools/files:
 
 * gcc - gnu compiler collection
@@ -293,3 +337,4 @@ number of factors:
     * etc.
 
 /lib/ld.so - shared library loader
+# -----------------------------------------------
