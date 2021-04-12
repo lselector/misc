@@ -1,0 +1,367 @@
+
+How to get High-Paying Jobs.
+
+I want to talk about getting high-paying jobs.
+I have helped many people over the years.
+And developed a certain methodology.
+
+Here are the main foundational ideas:
+========================================
+There is no stability.
+Average job duration was less than 2 years for a long time.
+
+========================================
+The technologies change fast.
+You need to learn new stuff to be marketable.
+You have to change, to adapt.
+To educate yourself into employment.
+
+You need to be on the front of the wave to receive high rate/salary.
+
+Any new job type becomes a "blue collar" job in just few years
+with average/low commodity pay.
+
+Most people don't educate themselves until they are forced to do so.
+So they are not increasing their salary.
+In fact, their effective compensation may go down, and competition increase.
+
+Nowadays you have to compete also
+ - against remote outsorced people in other countries
+ - against computers (automation, cloud, AI)
+
+Many jobs are becoming extinct.
+For example, the number of human traders at financial companies
+has fallen down to about 1% of what it used to be.
+
+========================================
+There is tactics and strategy.
+
+Tactics is specific steps you are taking. 
+Tactics changes all the time.
+
+Strategy is a long-term direction. A vision.
+You need to select direction carefully.
+
+Tactically you solve problem how to pay your bills this month.
+
+Strategically you plan how you will be living in 3-5 or more years from now.
+
+People tend to overestimate what they can do short term (in 3 months),
+and under-estimate what they can achieve long-term (in 3-5-10 years).
+
+You need to set a strategic direction.
+For me it is Machine Learning and AI (Artificial intelligence).
+
+========================================
+Interesting example - Prashant Reddy:
+ - http://www.cs.cmu.edu/~ppr/
+ - https://www.linkedin.com/in/prashantreddy
+ - https://www.facebook.com/prashantreddy
+
+In ~2009 he has left his 7-figure income at Morgan Stanley,
+and has become a Ph.D. student at Carnegie Mellon 
+in the area of Machine Learning.
+He has later gone to Google and J.P. Morgan.
+
+This is a very interesting example of staying on strategic course.
+Usually people don't want to sacrifice their high salaries.
+But - he did.
+
+========================================
+Once you decided on your strategic direction, you
+need to find examples of people who you can use
+as role models.
+
+The easiest way to achieve success is to follow someone else's steps.
+
+Venturing into a new field is like stepping on a minefield.
+You don't know where the mines are.
+
+But if you have someone who knows how to cross the field,
+then you can repeat his success simply by following his steps.
+
+Some knowledge you can find by searching (googling) for it.
+For some knowledge you should pay.
+But this is always a good investment.
+
+========================================
+Educate yourself "in advance". Be proactive.
+If you educate yourself proactively in advance - you will be ahead of the crowd.
+You will have little or no competition - and will receive higher salary.
+Think in terms of studying in a college.
+If you learn 2 weeks in advance - you get high grades.
+If you learn 2 weeks late - you get low grades.
+Over a period of 5 years the shift of 2 weeks is only 2/(5*50) ~ 1 percent.
+But this 1% shift in timing may result in 100% .. 500% shift in salary in real life.
+
+========================================
+Catch-22:
+     to get a job you need experience,
+     to get experience you need a job.
+You always have this problem, because technologies change.
+So next job may require technology which you haven't used on your previous job.
+
+There are only two ways to break out of this catch-22 cycle:
+      1. get real experience
+      2. get some education - and convince that you are really excited and can do the job.
+
+In most cases I was using p.2
+
+========================================
+I had a friend who always felt that he needs to study more.
+To get more courses, more certifications.
+
+But if you don't go out and do the interviews, nothing happen.
+
+Suppose you have studied for 3 months and now you are 70% ready.
+If you study for another 3 months - you may be 75% ready.
+But if you instead spend this time on going on interviews,
+you would probably get a job by now.
+
+More studying will increase your chances by 5%.
+More interviewing will increase your chances by 100%.
+
+========================================
+I knew a guy who was absolutely useless at work,
+but he was complaining that he is not paid enough,
+so he was constantly going on interviews.
+Result - he was getting high-paying jobs.
+And adding them to his resume.
+So he was paid more than people around him.
+But - he was useless at work, not productive.
+
+Those who study - don't get jobs.
+
+Those who go on interviews - get jobs and more money.
+And once you get a job - you will learn new stuff
+on the job while getting paid.
+
+So, do not procrastinate - just get a job.
+
+========================================
+You need to accept that during the interview
+there will be questions which you can not answer.
+
+You never can prepare for everything.
+All companies are different.
+All systems and processes are different.
+
+Consider interviews as a learning experience.
+Ask questions, take notes, write down terms,
+then go home and google them, learn about them,
+maybe add to your resume.
+
+Going on interviews is like a free education.
+You meet with experienced high-paid professionals
+who talk and ask questions about your area of interest.
+This is a great opportunity to learn from them.
+
+========================================
+Interview is the transfer of energy.
+You must have energy, excitement.
+Your top-paying skills are NOT your technical skills, but your enthusiasm.
+
+I have learned this lesson almost 20 years ago from Charly McAliley
+He was making $300/hour when I was making $115/hour
+He explained to me why he was paid much more.
+  - https://www.legacy.com/obituaries/atlanta/obituary.aspx?n=charles-mcaliley&pid=86229824&fhid=5583
+
+Read this book:
+      How I Raised Myself from Failure to Success in Selling - by Frank Bettger
+      - https://www.amazon.com/Raised-Myself-Failure-Success-Selling/dp/067179437X
+
+It is translated into Russian:
+      - http://flibusta.is/a/49001
+      - https://www.ozon.ru/context/detail/id/83957/
+
+========================================
+It is much easier to pass the interview for a skill which is NEW.
+
+If you would try to pass an interview for a commodity skill
+(today it would be Java, Javascript, etc. ),
+the interviewers will shred you into small pieces.
+the older the technology - the stronger the competition,
+and more difficult is the interview.
+
+But for a new technology you can pass the interview by simply talking
+in general terms.
+
+Managers need a specialist in new technology.
+They have a problem a headache - which they can not resolve themselves.
+They don't know this technology themselves.
+And they have difficulty finding specialists.
+
+If you demonstrate that you:
+ - know about this technology
+ - really like it and excited about it
+ - know the basics (what it is, terminology, people, vendors, tools, use cases, ...)
+the managers will decide that you are the good person for this job.
+ - pass the "alive" test (breathing at the mirror)
+...
+you are hired on the spot.
+
+So here is the formula:
+  - do research - find new and in high-demand skills
+  - learn basics - terminology (dictionary), ... to be able
+to answer basic questions. This takes 1-60 days depending on complexity.
+
+This will allow you to pass the interview.
+And then in 3 months on the job you get real experience!
+
+========================================
+Do NOT be afraid of learning new stuff.
+Do NOT try to grow incrementally from your previous experience.
+Rather make your research, find what is needed - and pull yourself to it.
+
+Most people define themselves by their prior experience.
+This is the huge mistake.
+Because the progress is disruptive.
+In order to make space for new stuff - you need to get rid of old stuff.
+
+It is possible (in fact it is easy) to re-define and re-position yourself
+in just few months.
+Remember - you don't need to become a true experienced specialist.
+You just need to become a "reporter" who knows about the subject,
+can navigate terminology, and demonstrate excitement.
+
+========================================
+Market yourself by your positioning, not by chasing opportunities.
+
+Position yourself as "obvious expert" so that people can find you.
+
+Publish materials on a subject:
+  - book(s), articles, posts
+  - youtube videos, podcasts, other social media
+  - LinkedIn posts, articles, etc.
+  - courses
+  - conferences (videos, abstracts)
+  - GitHub
+  - etc.
+
+Most people never do that.
+So by doing this you immediately put yourself in the top 0.01%
+and way ahead of the competition.
+(I am guilty of not doing this enough myself.)
+
+========================================
+Teaching others is a great way to educate yourself.
+Become an educator, an evangelist of new stuff.
+
+========================================
+Looking for a job is all about time management.
+You need to create your marketing funnel.
+  N1 people found you
+  N2 people contacted you for preliminary conversation
+  N3 people submitted you for a job
+  N4 companies decided to invite you for an interview
+  N5 companies decided to invite to 2nd, ... interview
+  N6 companies gave you a job offer
+
+Apparently N1 >> N2 > N3 ... > N6
+So majority of your time will be spent on N1, N2 - unless you
+will find a way to effectively automate it.
+If you get enough visibility and traffic for N1, N2,... - then job offers will follow automatically.
+
+========================================
+It is easier to learn new stuff together.
+Over the years I have done it in various ways:
+ - Learning together (book reading club, courses, ... )
+ - Making presentations - and publish (website, blog, github, youtube, ...)
+
+========================================
+To look for a job is a job in itself.
+It is a skill that you need to learn, to educate yourself.
+How many books have you read on the subject of looking for a job?
+Have you passed any exams/tests on the subject?
+
+Suppose you need to undergo a brain surgery.
+And you find that your surgeon hasn't read even a single book about medicine.
+Will you be willing to pay him to do a surgery on you?
+
+So how can you become successful in finding jobs
+if you haven't educated yourself in how to do it?
+
+You don't need to be a superhero to find a job.
+All you need is to follow certain proven steps.
+You need to learn it.
+
+========================================
+The technology of finding jobs changes.
+People used to answer ads in newspapers,
+sending paper letters in mail, or calling on the phone.
+
+Nowadays people mostly use Internet.
+But - there are different methods here as well.
+Which methods are more effective?
+
+I recommend this book:
+ - https://en.wikipedia.org/wiki/What_Color_Is_Your_Parachute%3F
+
+"It has been in print since 1970 and has been revised
+annually since 1975, sometimes substantially."
+
+In Russian:
+ - http://flibusta.is/b/606652
+
+Also you need to study marketing.
+
+I recommend Joe Polish, for example:
+ - https://geniusnetwork.com/giverbook/
+ - https://ilovemarketing.com/
+This is a gateway into literally hundreds of great sources.
+
+========================================
+Resume and Linkedin
+
+Nowadays companies search candidates on Linkedin.
+If you recommend someone to HR (Human Resource),
+they will immediately search this person on Linkedin.
+
+Resume and Linkedin should correspond to each other.
+
+Both should contain a short summary at the top.
+
+Spend 90% of your effort on this top summary.
+Because nobody reads the whole resume or Linkedin profile.
+
+But people read the top (summary).
+So spend most of your attention on the title and summary.
+This is your positionning.
+
+========================================
+Give yourself a title that corresponds to what you want to become.
+For example, if you are looking for a position of a Data Scientist,
+name yourself as a Data Scientist.
+
+Once you start talking about yourself as a Data Scientist,
+your outlook changes, your confidence increases, etc.
+
+What does it mean to be a Data Scientist ?
+It doesn't mean to go to college and get a degree.
+It simply means that you can do what average Data Scientists are doing.
+
+A minimalistic definition: 
+you need to know how to:
+  - get data - SQL or from CSV file
+  - explore data (Excel, Jupyter notebook, etc.)
+  - run some simple model (Linear Regression)
+  - evaluate model quality (accuracy, confusion matrix, precision, recall, ROC curve, etc.)
+  - make PowerPoint presentation
+
+There are multiple projects on Github, Medium, etc.
+Take one of them, reproduce step-by-step.
+Done.
+You are a minimalistic Data Scientist.
+
+========================================
+Get recommendations for your linkedin profile.
+At least 5-10, but 40-50 is better.
+People trust when they see positive reviews (recommendations).
+
+This is similar to a trust people experience when
+they see positive 5-star reviews on amazon.
+
+So - present yourself as a 5-stars "product" using recommendations.
+
+========================================
+
