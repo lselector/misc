@@ -1,0 +1,809 @@
+Backend_as_a_Service.pptx : Tools for building cloud backend for an App
+Backend_as_a_Service.pptx : (Web, iOS, Android)
+Backend_as_a_Service.pptx : BaaS = Backend as a Service, MBaaS – Mobile BaaS
+Backend_as_a_Service.pptx : Firebase – BaaS/MBaaS from Google. It was originally an independent company founded in 2011. In 2014, Google acquired the platform and it is now their flagship offering for app development - https://firebase.google.com/
+Backend_as_a_Service.pptx : Back4app - https://www.back4app.com/  - open source, free or paid ($5 .. $50 .. $1000/mo)
+Backend_as_a_Service.pptx : AWS Amplify - https://aws.amazon.com/amplify/ - open source libraries, GUI components, CLI toolchain
+Backend_as_a_Service.pptx : Parse - https://parseplatform.org/ - open-source
+Backend_as_a_Service.pptx : Backendless - https://backendless.com/ - visual app builder
+Backend_as_a_Service.pptx : Cloudkit - Apple's closed-source platform - https://developer.apple.com/icloud/cloudkit/ -
+Backend_as_a_Service.pptx : Kinvey – enterprise BaaS, starts at $2.5K/year - https://www.progress.com/kinvey -
+Backend_as_a_Service.pptx : Azure Mobile Apps - https://azure.microsoft.com/en-us/services/app-service/mobile/ -
+Backend_as_a_Service.pptx : Kii - https://en.kii.com/ - IoT platform
+Backend_as_a_Service.pptx : Kumulos - https://www.kumulos.com/ - user engagement platform
+Backend_as_a_Service.pptx : GameSparks - https://www.gamesparks.com/ - backends for games
+Backend_as_a_Service.pptx : 8Base - https://www.8base.com/ - GraphQL-powered
+Backend_as_a_Service.pptx : Kuzzle - https://kuzzle.io/ - open-source for IoT and mobile
+Backend_as_a_Service.pptx : -------------------------------------------------------------------------------------
+Backend_as_a_Service.pptx : Playfab - https://playfab.com/ - Microsoft backend for games
+Backend_as_a_Service.pptx : Appcelerator - Titanium -  https://en.wikipedia.org/wiki/Appcelerator - https://appcelerator.com/ - https://www.appcelerator.org/
+Backend_as_a_Service.pptx : MongoDB Stitch - https://docs.mongodb.com/realm/ -
+Backend_as_a_Service.pptx : Oracle Mobile Hub - https://www.oracle.com/application-development/cloud-services/mobile/ -
+Backend_as_a_Service.pptx : IBM Mobile Foundation - https://www.ibm.com/cloud/mobile-foundation -
+Backend_as_a_Service.pptx : Baqend (retired) - https://www.baqend.com/ -
+Backend_as_a_Service.pptx : Convertigo - https://www.convertigo.com/ - open-source
+Backend_as_a_Service.pptx : BaasBox - https://opensource.baasbox.com/ -
+Backend_as_a_Service.pptx : Hoodie - http://hood.ie/ - https://github.com/hoodiehq - Javascript , Offline-First Backend
+Backend_as_a_Service.pptx : Typical Features:
+Backend_as_a_Service.pptx : User registration & management, Authentication, Single Sign-on (secure tokens)
+Backend_as_a_Service.pptx : Messaging, subscriptions, email verification, push notifications
+Backend_as_a_Service.pptx : Geolocation
+Backend_as_a_Service.pptx : Chatbots
+Backend_as_a_Service.pptx : API (GraphQL & REST)
+Backend_as_a_Service.pptx : Caching, CDN (Content Delivery Network), Realtime Database for synchronization & conflict resolution
+Backend_as_a_Service.pptx : Storage (files, buckets, databases)
+Backend_as_a_Service.pptx : A/B Testing, Analytics, AI/ML - Predictions, translations, ...
+Backend_as_a_Service.pptx : Social Media Integration (Facebook, LinkedIn, Twitter, etc.)
+Backend_as_a_Service.pptx : Logging, Performance monitoring, Crash Reporting
+Backend_as_a_Service.pptx : Infrastructure (Security settings, auto-scaling, load-balancing, data replication, data backup, DB optimization)
+Backend_as_a_Service.pptx : Supports multiple frontend technologies: React Native, iOS Native (Swift or Objective-C), Kotlin, Android Native, Ionic, Xamarin, Flutter, ...
+Backend_as_a_Service.pptx : Review:
+Backend_as_a_Service.pptx : - https://blog.back4app.com/backend-as-a-service-baas/
+COBOL_and_Mainframe.pptx : COBOL = "COmmon Business-Oriented Language"
+COBOL_and_Mainframe.pptx : In 2009 it was estimated 220 billion lines of COBOL in existence, which was ~80% of the
+COBOL_and_Mainframe.pptx : world's actively used code. (~5 Bln added annually). Today (2019) COBOL still runs in
+COBOL_and_Mainframe.pptx : traditional banking, lots of large scale government systems, insurance and health care.
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : COBOL was designed in 1959 (60 years ago).
+COBOL_and_Mainframe.pptx : It is primarily used on mainframe computers in business, finance, and governments.
+COBOL_and_Mainframe.pptx : It handles large-scale batch and transaction processing jobs.
+COBOL_and_Mainframe.pptx : It run on various operating systems (z/OS, z/VSE, VME, Unix, OpenVMS and Windows).
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Academic computer scientists were not interested in COBOL.
+COBOL_and_Mainframe.pptx : COBOL has been criticized for its verbosity, design process, and poor support for structured programming.
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : COBOL was designed in 1959 by CODASYL (Conference/Committee on Data Systems Languages).
+COBOL_and_Mainframe.pptx : It was partly based on work by Grace Hopper, commonly referred to as "the (grand)mother of COBOL".
+COBOL_and_Mainframe.pptx : It was created as part of a US Department of Defense effort to create a portable programming language.
+COBOL_and_Mainframe.pptx : It was standardized in 1968 and has since been revised four times (last time in 2014).
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : COBOL is compiled, imperative, procedural and, since 2002, object-oriented.
+COBOL_and_Mainframe.pptx : COBOL statements have an English-like syntax, which was designed to be readable and self-documenting.
+COBOL_and_Mainframe.pptx : However, it is too verbose, uses over 300 reserved words. COBOL code is split into four divisions (identification, environment, data and procedure) containing a rigid hierarchy of sections, paragraphs and sentences.
+COBOL_and_Mainframe.pptx : COBOL uses only global variables. Variable names may contain dashes in them.
+COBOL_and_Mainframe.pptx : COBOL code is written using 80-character lines (this comes historically from punched cards), and different columns in a  line serve different purpose (for example, an asterisk in col.7 makes it a comment).
+COBOL_and_Mainframe.pptx : The COBOL standard specifies 43 statements, 87 functions, and just one class.
+COBOL_and_Mainframe.pptx : Grace Hopper
+COBOL_and_Mainframe.pptx : (1906-1992)
+COBOL_and_Mainframe.pptx : New York City
+COBOL_and_Mainframe.pptx : Yale math (1934)
+COBOL_and_Mainframe.pptx : Vassar College
+COBOL_and_Mainframe.pptx : Navy Reserves  (1943)
+COBOL_and_Mainframe.pptx : Helped to create UNIVAC (Universal Automatic Computer) (1952)
+COBOL_and_Mainframe.pptx : Invented first linker (1952) Coined the word “bug”
+COBOL_and_Mainframe.pptx : Mother of COBOL
+COBOL_and_Mainframe.pptx : IBM = International Business Machines.
+COBOL_and_Mainframe.pptx : BMs (Business Machines) are not computers.
+COBOL_and_Mainframe.pptx : They are MECHANICAL MACHINES.
+COBOL_and_Mainframe.pptx : They store data on punched cards.
+COBOL_and_Mainframe.pptx : They can:
+COBOL_and_Mainframe.pptx : - mechanically take one card at a time
+COBOL_and_Mainframe.pptx : - read information from the card,
+COBOL_and_Mainframe.pptx : - sort/filter through many cards to find information
+COBOL_and_Mainframe.pptx : - do simple calculations, for example, calculate totals.
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Idea: create standard way to encode numbers and
+COBOL_and_Mainframe.pptx : characters on punched cards.
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Idea: the logic of calculations can also be
+COBOL_and_Mainframe.pptx : also stored on punch-cards.
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Idea: create standard way to express compute-instructions
+COBOL_and_Mainframe.pptx : (programming language).
+COBOL_and_Mainframe.pptx : Punched Card
+COBOL_and_Mainframe.pptx : COBOL was designed by a committee : CODASYL (Conference/Committee on Data Systems Languages).
+COBOL_and_Mainframe.pptx : It was designed in time of punched cards.
+COBOL_and_Mainframe.pptx : The code was written on a “COBOL Coding Sheet”, which has 80 columns – like a standard punched card. Each line of code can be transferred to a single punched card.Note - different columns/areas on the card are used for different purposes
+COBOL_and_Mainframe.pptx : (for example, an asterisk in col.7 makes it a comment).
+COBOL_and_Mainframe.pptx : COBOL can be installed on regular laptop – Windows, MacOS, Linux.
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Below are instructions for MacOS
+COBOL_and_Mainframe.pptx : http://macappstore.org/gnu-cobol/ brew install gnu-cobol https://www.consulting-bolte.de/index.php/tech-blog/cobol/184-install-cobol-on-macos-x https://www.tutorialspoint.com/compile_cobol_online.php OpenCobolIDE brew install pyqt5pip3 install OpenCobolIDE --upgrade run it by:     openCobolIde
+COBOL_and_Mainframe.pptx : COBOL – “Hello World!”       (example on Unix)
+COBOL_and_Mainframe.pptx : ---- file “hello.cob” -------------------------
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : HELLO * HISTORIC EXAMPLE OF HELLO WORLD IN COBOL
+COBOL_and_Mainframe.pptx : IDENTIFICATION DIVISION.
+COBOL_and_Mainframe.pptx : PROGRAM-ID. HELLO.
+COBOL_and_Mainframe.pptx : PROCEDURE DIVISION.
+COBOL_and_Mainframe.pptx : DISPLAY "HELLO, WORLD!".
+COBOL_and_Mainframe.pptx : STOP RUN.
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : ----------------------------------------
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : The compiler is cobc, which is executed as following:
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : $ cobc -o hello hello.cob
+COBOL_and_Mainframe.pptx : $ ./hello
+COBOL_and_Mainframe.pptx : Hello World!
+COBOL_and_Mainframe.pptx : Columns post-year-2002:
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Column   Area
+COBOL_and_Mainframe.pptx : ------------------------
+COBOL_and_Mainframe.pptx : 1-6      Sequence Number
+COBOL_and_Mainframe.pptx : 7        Indicator
+COBOL_and_Mainframe.pptx : 8-255    Program text
+COBOL_and_Mainframe.pptx : //MYJOB   JOB  CLASS=A,MSGCLASS=A,MSGLEVEL=(1,1),REGION=256K
+COBOL_and_Mainframe.pptx : //S1      EXEC PGM=IEBGENER
+COBOL_and_Mainframe.pptx : //SYSUT1   DD  DATA,DLM=$$
+COBOL_and_Mainframe.pptx : /*******************************************************/
+COBOL_and_Mainframe.pptx : /*                                                     */
+COBOL_and_Mainframe.pptx : /*                      Hello World                    */
+COBOL_and_Mainframe.pptx : /*                                                     */
+COBOL_and_Mainframe.pptx : /*******************************************************/
+COBOL_and_Mainframe.pptx : $$
+COBOL_and_Mainframe.pptx : //SYSUT2   DD  SYSOUT=A
+COBOL_and_Mainframe.pptx : //SYSPRINT DD  SYSOUT=A
+COBOL_and_Mainframe.pptx : //SYSIN    DD  DUMMY
+COBOL_and_Mainframe.pptx : //
+COBOL_and_Mainframe.pptx : JCL Script Example
+COBOL_and_Mainframe.pptx : Most JCL Statements start with // in column 1 and 2.
+COBOL_and_Mainframe.pptx : (There is also a delimiter statement /* or custom defined)
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Everything to the right of column 72 is ignored
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : JCL MUST BE CODED IN UPPERCASE
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Every job begins with a JOB statement
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Every Job has at least 1 Step (= EXEC statement)
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Every Step (usually) has at least one dataset (= DD statement)
+COBOL_and_Mainframe.pptx : JCL = Job Control Language
+COBOL_and_Mainframe.pptx : Mainframe (“Big Iron”, “Big Blue”) – “big” throughput and reliability.
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Mainframe – computers (hardware + software) were historically introduced
+COBOL_and_Mainframe.pptx : as largest servers for commercial transaction processing.
+COBOL_and_Mainframe.pptx : They are famous for being able to do massive transactional processing of data,
+COBOL_and_Mainframe.pptx : while maintaining 100% availability/reliability (built-in internal redundancy,
+COBOL_and_Mainframe.pptx : hot-swappable modules for upgrades and repair).
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Most common (dominant) today are IBM mainframe computers
+COBOL_and_Mainframe.pptx : running 64-bit z/OS (introduced in 2000).
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : In 2017 IBM claimed that 92 of the world's 100 biggest banks used its mainframes,
+COBOL_and_Mainframe.pptx : and that they handle 87% of global credit card transactions,
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : But IBM did NOT invent mainframe
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : 1950 – UNIVAC  (UNIVersal Automatic Computer) - first mainframe.
+COBOL_and_Mainframe.pptx : The company “Unisys” still exists and sells mainframes.
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : During this time IBM was selling IBM 700/7000 series of computers
+COBOL_and_Mainframe.pptx : for electronic data processing – they were not mainframe yet.
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : 1964 - The first IBM mainframe (IBM System/360 ).
+COBOL_and_Mainframe.pptx : Sabre – first Online Reservation – was using IBM TPF (Transaction Processing Facility)
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Today there are still exist some non-IBM mainframes:
+COBOL_and_Mainframe.pptx : “Fujitsu-Siemens”, NEC, Unisys, Bull.
+COBOL_and_Mainframe.pptx : Modern IBM z15 with 4 frames (19” cabinets).
+COBOL_and_Mainframe.pptx : Together up to:
+COBOL_and_Mainframe.pptx : - 190 configurable cores,
+COBOL_and_Mainframe.pptx : - 129 zIIPs (z-Integrated-Information-Processors)
+COBOL_and_Mainframe.pptx : - 40 TB memory
+COBOL_and_Mainframe.pptx : - 99.999% availability
+COBOL_and_Mainframe.pptx : - can run Linux and Z/OS.
+COBOL_and_Mainframe.pptx : - can host up to 2.4 million containers!
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Note: today’s cloud Virtual Servers are comparable, for
+COBOL_and_Mainframe.pptx : Example, AWS Unix VMs: up to 128 vcpus, 24 TB RAM
+COBOL_and_Mainframe.pptx : Processors in a Mainframe:
+COBOL_and_Mainframe.pptx : CP = Central Processor
+COBOL_and_Mainframe.pptx : SAP = System Assistance Processor - for I/O, error recovery, etc.
+COBOL_and_Mainframe.pptx : IFL = Integrated Facility for Linux
+COBOL_and_Mainframe.pptx : zAAP - to run Java
+COBOL_and_Mainframe.pptx : zIIP = z9® Integrated Information Processor - to handle database workloads.
+COBOL_and_Mainframe.pptx : ICF = Integrated Coupling Facility (internal scratch=pad).
+COBOL_and_Mainframe.pptx : Spare = can be used to replace failed PU (Processing units).
+COBOL_and_Mainframe.pptx : IBM latest z15 microprocessors are comparable in performance with latest Intel Xeon or AMD processors. Although architecture is different.
+COBOL_and_Mainframe.pptx : 12 cores, 14 nm, 5.2 GHz clock rate, 64bit, 256 MB L3 cache (21MB/core – compare with 2.5MB/core for Intel)
+COBOL_and_Mainframe.pptx : IBM Mainframe OS and Systems
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : 1964 – IBM System/360
+COBOL_and_Mainframe.pptx : 1970 – IBM System/370 – Virtual Memory, Virtual Storage
+COBOL_and_Mainframe.pptx : 1974 – IBM MVS = Multiple Virtual Storage – common OS under System/370
+COBOL_and_Mainframe.pptx : 1995 – IBM System/390 – to simplify packaging and ordering
+COBOL_and_Mainframe.pptx : 2000 – IBM z/OS – 64-bit OS  (written in PL/X, HLASM, and C/C++)
+COBOL_and_Mainframe.pptx : -------------------------------------------------------------------------------------------------------------------
+COBOL_and_Mainframe.pptx : Common Systems:
+COBOL_and_Mainframe.pptx : CICS - Customer Information Control System - high-volume online transaction processing
+COBOL_and_Mainframe.pptx : COBOL – Common Business-Oriented Language
+COBOL_and_Mainframe.pptx : PL/I = PL/1 = Programming Language One (since 1960), PL/X = vaguely PL/I-like language
+COBOL_and_Mainframe.pptx : HLASM = High Level Assembler
+COBOL_and_Mainframe.pptx : IMS - Information Management System - a hierarchical transactional database.
+COBOL_and_Mainframe.pptx : DB2 – Relational Database
+COBOL_and_Mainframe.pptx : RACF - Resource Access Control Facility (a security system)
+COBOL_and_Mainframe.pptx : SNA – Systems Network Architecture
+COBOL_and_Mainframe.pptx : IBM MQ – Messaging
+COBOL_and_Mainframe.pptx : VSAM - record-oriented data access methods (indexed, fast)
+COBOL_and_Mainframe.pptx : REXX - interpreted programming language, easy to read and use
+COBOL_and_Mainframe.pptx : CLIST - Command List - a procedural programming language (superseded by Rexx)
+COBOL_and_Mainframe.pptx : SMP/E - System Modification Program/Extended - a tool to manage software installations on z/OS system
+COBOL_and_Mainframe.pptx : JCL - Job Control Language – scripting languages to write script to run a batch job or start a subsystem
+COBOL_and_Mainframe.pptx : TSO/E - "Time Sharing Option/Extensions” – interactive system for sys-admins
+COBOL_and_Mainframe.pptx : ISPF - Interactive System Productivity Facility –  terminal interface software (screen editor, etc.)
+COBOL_and_Mainframe.pptx : Unix-style hierarchical HFS[NB 2] and zFS file systems
+COBOL_and_Mainframe.pptx : 1988 - AS/400 (AS = Application System - also called the "IBM iSeries”) - a midrange server from IBM, very common.
+COBOL_and_Mainframe.pptx : IBM Terminal Interface
+COBOL_and_Mainframe.pptx : VSAM = Virtual Storage Access Method
+COBOL_and_Mainframe.pptx : VSAM was introduced by IBM in 1970’s.
+COBOL_and_Mainframe.pptx : It is a collection of file storage/access methods used in OS/390,
+COBOL_and_Mainframe.pptx : MVS (Multiple Virtual Storage), and now in z/OS operating systems.
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : VSAM offers faster access than flat files because it uses an inverted index (B+tree)
+COBOL_and_Mainframe.pptx : based on embedded prime key field, that you define.
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : VSAM records can be of fixed or variable length.
+COBOL_and_Mainframe.pptx : IBM now promotes DB2, a relational database management system,
+COBOL_and_Mainframe.pptx : although VSAM linear datasets are still used to contain tablespaces
+COBOL_and_Mainframe.pptx : and index spaces within the system.
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : VSAM supports four data set organizations:
+COBOL_and_Mainframe.pptx : - Key Sequenced Data Set (KSDS)
+COBOL_and_Mainframe.pptx : - Relative Record Data Set (RRDS)
+COBOL_and_Mainframe.pptx : - Entry Sequenced Data Set (ESDS)
+COBOL_and_Mainframe.pptx : - Linear Data Set (LDS).
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : The KSDS, RRDS and ESDS organizations contain records,
+COBOL_and_Mainframe.pptx : while the LDS organization (added later to VSAM) simply contains a sequence of pages
+COBOL_and_Mainframe.pptx : with no intrinsic record structure, for use as a memory-mapped file.
+COBOL_and_Mainframe.pptx : Big-endian vs Little-endian
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Big-endian – most significant value is stored first.
+COBOL_and_Mainframe.pptx : Little-endian  - least significant value in the sequence is stored first.
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Consider a two-byte number 4F52.
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : In big-endian computer it will be stored like this:
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Addr  Value
+COBOL_and_Mainframe.pptx : 4F
+COBOL_and_Mainframe.pptx : 52
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : In little-endian computer it will be stored like this:
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Addr  Value
+COBOL_and_Mainframe.pptx : 52
+COBOL_and_Mainframe.pptx : 4F
+COBOL_and_Mainframe.pptx : Big-Endian (network-order):
+COBOL_and_Mainframe.pptx : - IBM's 370 mainframes
+COBOL_and_Mainframe.pptx : - most RISC-based computers
+COBOL_and_Mainframe.pptx : - Motorola microprocessors
+COBOL_and_Mainframe.pptx : - TCP/IP
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Little-endian:
+COBOL_and_Mainframe.pptx : - Intel processors (CPUs)
+COBOL_and_Mainframe.pptx : - DEC Alphas
+COBOL_and_Mainframe.pptx : Note about Mac computers:
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : ~20 years ago Macs were running on big-endian Motorola 68K processors.
+COBOL_and_Mainframe.pptx : Then they switched to PowerPC which were bi-endian (could be placed in big-endian or little-endian mode).
+COBOL_and_Mainframe.pptx : ~10 years ago MacOS switched to Intel chipset (little-endian).
+COBOL_and_Mainframe.pptx : Converting COBOL to other languages
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Many companies worked on migrating legacy COBOL systems to
+COBOL_and_Mainframe.pptx : other languages, typically Java or C#.
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : task:
+COBOL_and_Mainframe.pptx : ANTLR 4 - https://www.antlr.org/
+COBOL_and_Mainframe.pptx : google for corresponding grammas (on GitHub):
+COBOL_and_Mainframe.pptx : https://github.com/antlr/grammars-v4/tree/master/cobol85
+COBOL_and_Mainframe.pptx : https://github.com/antlr/grammars-v4/blob/master/cobol85/Cobol85.g4
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : lex-ing / parsing , creating tree
+COBOL_and_Mainframe.pptx : translate the tree into another language (python?)
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Alternative approach (Renato) – self-made parser.
+COBOL_and_Mainframe.pptx : VSAM files  =>  SQL DB  => Graph DB
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Indexed VSAM file is a file of records with primary key
+COBOL_and_Mainframe.pptx : Nowadays when people need indexed storage – they simply use RDBMS (Relational Database).
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : Relations become more and more important.
+COBOL_and_Mainframe.pptx : Recent trend is to move from RDBMS to GraphDB, where relationships become 1st class  citizens.
+COBOL_and_Mainframe.pptx : 
+COBOL_and_Mainframe.pptx : New languages for Graph data – (Graph languages).
+Continuous_Integration.pptx : Continuous Integration  ( C I ) – software for DevOps
+Continuous_Integration.pptx : Review - https://www.guru99.com/top-20-continuous-integration-tools.html
+Continuous_Integration.pptx : 
+Continuous_Integration.pptx : Leaders:
+Continuous_Integration.pptx : CircleCI - free and commercial, good for small projects - https://circleci.com/
+Continuous_Integration.pptx : Jenkins - open source, java, need dedicated server, good for big projects - https://www.jenkins.io/
+Continuous_Integration.pptx : Travis CI - similar to CircleCI (more options, but also more expensive, no free options) - https://travis-ci.org/
+Continuous_Integration.pptx : 
+Continuous_Integration.pptx : Others:
+Continuous_Integration.pptx : CodeShip - https://codeship.com/
+Continuous_Integration.pptx : TeamCity – from JetBrains, $300+, has many features - https://www.jetbrains.com/teamcity/
+Continuous_Integration.pptx : Bamboo CI – commercial - https://www.atlassian.com/software/bamboo
+Continuous_Integration.pptx : Chef - https://www.chef.io/
+Continuous_Integration.pptx : Ansible - RedHat - https://www.ansible.com/
+Continuous_Integration.pptx : GitLab CI - https://about.gitlab.com/
+Continuous_Integration.pptx : AirFlow - https://airflow.apache.org/
+Continuous_Integration.pptx : Azure devops - https://azure.microsoft.com/en-us/services/devops/
+Continuous_Integration.pptx : Jenkins X - https://jenkins-x.io/
+Continuous_Integration.pptx : OpenShift - Red Hat - Enterprise Kubernetes container platform to automate hybrid cloud and multi-cloud deployments - https://www.openshift.com/
+High_Availability.pptx : High Availability Clusters
+High_Availability.pptx : Question:
+High_Availability.pptx : If a load balancer is used - isn't that the single point of failure?
+High_Availability.pptx : 
+High_Availability.pptx : Answer:
+High_Availability.pptx : Yes, it will become a single point of failure if it is a single device. So to avoid this, we need to use more than one balancer,
+High_Availability.pptx : and we need to run them as a HA (High Availability) cluster.
+High_Availability.pptx : - https://en.wikipedia.org/wiki/High-availability_cluster
+High_Availability.pptx : 
+High_Availability.pptx : There are multiple ways to achieve High Availability.
+High_Availability.pptx : For example, consider simple fail-over mechanism with just two servers (master/slave).
+High_Availability.pptx : They receive the same input, do the same calculations, constantly in sync, but only the master provides the output.
+High_Availability.pptx : The slave server monitors the heartbeat of the master. If the master server dies (heartbeat stops), the slave  server becomes the new master.
+High_Availability.pptx : 
+High_Availability.pptx : In the above simple master/slave architecture, the slave is mostly doing nothing.
+High_Availability.pptx : In real life you may have many servers receiving same inputs and separating their responsibilities to achieve higher performance. Then if one of the servers dies, others can take over its responsibilities.
+High_Availability.pptx : Common method of separating responsibilities (and doing fail-over) is called "consistent hashing".
+High_Availability.pptx : - https://en.wikipedia.org/wiki/Consistent_hashing
+High_Availability.pptx : Good explanation:
+High_Availability.pptx : - https://dzone.com/articles/simple-magic-consistent
+High_Availability.pptx : - https://www.toptal.com/big-data/consistent-hashing
+High_Availability.pptx : Original paper (Karger et al, 1997):
+High_Availability.pptx : - Consistent Hashing and Random Trees: Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web – by David Karger, Eric Lehman, Tom Leighton, Matthew Levine, Daniel Lewin, Rina Panigrahy.
+High_Availability.pptx : Consistent Hashing
+High_Availability.pptx : Consistent Hashing Explained
+High_Availability.pptx : How do we distribute requests from clients between several servers.
+High_Availability.pptx : Suppose each client has a key. Or we generate a key based on its IP address and port.
+High_Availability.pptx : Now we can hash the key to an integer and do a modulo based on the size of the server set.
+High_Availability.pptx : 
+High_Availability.pptx : server_id = int_hash(key)    %    N_servers
+High_Availability.pptx : 
+High_Availability.pptx : So for a given key we get the same server every time. Great!?
+High_Availability.pptx : But what if one of the servers dies ?
+High_Availability.pptx : Here is a better algorithm.
+High_Availability.pptx : Instead of using modulo, we can use random numbers.
+High_Availability.pptx : Suppose N_servers=20, and for each server we want 200 random numbers.
+High_Availability.pptx : Total: 200*20=4,000 values – we will call them "virtual servers".
+High_Availability.pptx : Let's take a big range of numbers [0 .. 2^160] and put them on a circle.
+High_Availability.pptx : Let's randomly choose 200 numbers for each server (no sharing).
+High_Availability.pptx : So now on the circle we have 4,000 positions of "virtual servers".
+High_Availability.pptx : 
+High_Availability.pptx : So now how we map a key to a real server?
+High_Availability.pptx : We use hash function to map a key to some value in range up to 2^160.
+High_Availability.pptx : We find corresponding position on the circle.
+High_Availability.pptx : We move (clockwise?) until we hit the first position corresponding
+High_Availability.pptx : to some "virtual server". We map from this "virtual server" to actual server.
+High_Availability.pptx : DONE.
+High_Availability.pptx : 
+High_Availability.pptx : 
+High_Availability.pptx : Building a Consistent Hashing Ring (2011) – very good, with code in Python:
+High_Availability.pptx : - https://docs.openstack.org/swift/latest/ring_background.html
+High_Availability.pptx : A Fast, Minimal Memory, Consistent Hash Algorithm (2014, Google)
+High_Availability.pptx : - by John Lamping, Eric Veach - https://arxiv.org/abs/1406.2294
+High_Availability.pptx : Notes:
+High_Availability.pptx : Randomness helps to avoid hotspots
+High_Availability.pptx : Consistent Hashing Enables Partitioning
+High_Availability.pptx : Partitioning Makes Scaling Up and Down More Predictable
+High_Availability.pptx : Consistent Hashing and Partitioning Enable Replication
+High_Availability.pptx : There doesn't need to be a master for any piece of data
+High_Availability.pptx : Every node is simply a replica of a number of partitions
+High_Availability.pptx : Replication Reduces Hotspots (Even More by using load-balancing)
+High_Availability.pptx : Consistent Hashing Enables Scalability and Availability
+High_Availability.pptx : Adapted from: - https://www.mikeperham.com/2009/01/14/consistent-hashing-in-memcache-client/
+Nested_Set_Model.pptx : Nested Set Model (NSM)
+Nested_Set_Model.pptx : NSM is a technique for representing trees in relational databases
+Nested_Set_Model.pptx : making it easy and fast to query.
+Nested_Set_Model.pptx : 
+Nested_Set_Model.pptx : Note: this technique can be used when the database doesn't
+Nested_Set_Model.pptx : support hierarchical query.
+Nested_Set_Model.pptx : 
+Nested_Set_Model.pptx : NSM idea is to assign numbers the nodes according to a tree traversal, which visits each node twice, assigning numbers in the order of visiting, and at both visits.
+Nested_Set_Model.pptx : 
+Nested_Set_Model.pptx : This leaves two numbers for each node, which are stored as two attributes.
+Nested_Set_Model.pptx : 
+Nested_Set_Model.pptx : Querying becomes inexpensive: hierarchy membership can be tested by comparing these numbers.  All children's numbers should be between numbers of the parent.
+Nested_Set_Model.pptx : 
+Nested_Set_Model.pptx : Updating requires renumbering - and is therefore expensive. Renumbering can be avoided by using rational numbers instead of integers (this makes update faster, although more complicated).
+Nested_Set_Model.pptx : 
+Nested_Set_Model.pptx : https://en.wikipedia.org/wiki/Nested_set_model
+PowerApps.pptx : Microsoft Power Apps
+PowerApps.pptx : Power Platform:
+PowerApps.pptx : Power BI
+PowerApps.pptx : Power Apps
+PowerApps.pptx : Power Automate
+PowerApps.pptx : Power Virtual Agents
+PowerApps.pptx : 
+PowerApps.pptx : Power Apps:
+PowerApps.pptx : rapid application development environment
+PowerApps.pptx : build custom apps for your business needs
+PowerApps.pptx : suite of apps, services, connectors, and data platform
+PowerApps.pptx : responsive design - apps can run in browser, tablet, or phones
+PowerApps.pptx : https://docs.microsoft.com/en-us/powerapps/
+PowerApps.pptx : https://powerapps.microsoft.com/en-us/downloads/
+PowerApps.pptx : https://create.powerapps.com/studio/#
+PowerApps.pptx : Benefits of Power Apps:
+PowerApps.pptx : Fast and easy App Creation (responsive custom forms)
+PowerApps.pptx : Easy Standard Connectors (to data sources ...)
+PowerApps.pptx : Easy integrate with Office 365, Power BI, SharePoint, ...
+PowerApps.pptx : Mobile Ready
+PowerApps.pptx : Microsoft Flow (process and task automation)
+PowerApps.pptx : Low Cost
+PowerApps.pptx : Disadvantages:
+PowerApps.pptx : Separate apps for Android and iOS
+PowerApps.pptx : Can retrieve only 500-2,000 items
+PowerApps.pptx : Can't integrate JavaScript
+PowerApps.pptx : Meant only for internal use (licensing model)
+PowerApps.pptx : Microsoft Dataverse:
+PowerApps.pptx : Common Data Service (CDS) has been renamed
+PowerApps.pptx : to Microsoft Dataverse (2020)
+PowerApps.pptx : https://docs.microsoft.com/en-us/powerapps/developer/data-platform/entities
+PowerApps.pptx : 
+PowerApps.pptx : CDM = Common Data Model
+PowerApps.pptx : CDS = Common Data Service = Dataverse
+PowerApps.pptx : 
+PowerApps.pptx : Power Query:
+PowerApps.pptx : data transformation and data preparation engine
+PowerApps.pptx : graphical interface for getting data from sources
+PowerApps.pptx : Power Query Editor for applying transformations
+PowerApps.pptx : 
+PowerApps.pptx : ...
+Protocol_Buffers.pptx : Protocol Buffers
+Protocol_Buffers.pptx : A protocol buffer is simply a binary message.
+Protocol_Buffers.pptx : The structure of the messages is defined in a .proto file.
+Protocol_Buffers.pptx : Google provides open-source libraries for different languages for encoding/decoding these messages.
+Protocol_Buffers.pptx : - https://en.wikipedia.org/wiki/Protocol_Buffers
+Protocol_Buffers.pptx : - https://developers.google.com/protocol-buffers/docs/pythontutorial
+Protocol_Buffers.pptx : 
+Protocol_Buffers.pptx : Protobuf-s are much smaller than XML, CSV, etc.
+Protocol_Buffers.pptx : Protobuf-s specs don't specify compression, but they have binary optimizations, which make them even smaller.
+Protocol_Buffers.pptx : You can further decrease messages using compression:
+Protocol_Buffers.pptx : - https://github.com/protocolbuffers/protobuf/blob/master/src/google/protobuf/io/gzip_stream.h
+Protocol_Buffers.pptx : syntax = "proto2";
+Protocol_Buffers.pptx : 
+Protocol_Buffers.pptx : package tutorial;
+Protocol_Buffers.pptx : 
+Protocol_Buffers.pptx : message Person {
+Protocol_Buffers.pptx : optional string name = 1;
+Protocol_Buffers.pptx : optional int32 id = 2;
+Protocol_Buffers.pptx : optional string email = 3;
+Protocol_Buffers.pptx : 
+Protocol_Buffers.pptx : enum PhoneType {
+Protocol_Buffers.pptx : MOBILE = 0;
+Protocol_Buffers.pptx : HOME = 1;
+Protocol_Buffers.pptx : WORK = 2;
+Protocol_Buffers.pptx : }
+Protocol_Buffers.pptx : 
+Protocol_Buffers.pptx : message PhoneNumber {
+Protocol_Buffers.pptx : optional string number = 1;
+Protocol_Buffers.pptx : optional PhoneType type = 2 [default = HOME];
+Protocol_Buffers.pptx : }
+Protocol_Buffers.pptx : 
+Protocol_Buffers.pptx : repeated PhoneNumber phones = 4;
+Protocol_Buffers.pptx : }
+Protocol_Buffers.pptx : 
+Protocol_Buffers.pptx : message AddressBook {
+Protocol_Buffers.pptx : repeated Person people = 1;
+Protocol_Buffers.pptx : }
+Protocol_Buffers.pptx : Example of a proto file: addressbook.proto
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : SSH, SSL, Single Sign-On, Authorization, Token, etc.
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : Authentication – prove identity of the user or server (user name + password, cards, retina scans, voice recognition, fingerprints, secure certificates, tokens, etc.)
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : Authorization – check if user/server is allowed (authorized) to do something
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : Encryption - transforming the data so that it is unreadable without decryption key.
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : One-way encryption - hash function, hard to reverse, different for different strings
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : Symmetric encryption (symmetric cipher - uses same key to encrypt and decrypt).
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : Asymmetric encryption (public key / private key).
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : PGP = Pretty Good Privacy, since 1991, uses both symmetric an asymmetric encryption, the de facto standard for email security.
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : AES = Advanced Encryption Standard, symmetric encryption, fast, used in databases
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : SSH = Secure Shell protocol (SSH-2 : terminal, sending files, SecureFTP, etc.)
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : SSL = Secure Socket Layer protocol (https://...), 1995 – 2015, deprecated
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : TLS  = Transport Layer Security, a successor of SSL 3.0, 1999, https://www.ssl2buy.com/wiki/ssl-vs-tls
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : SSL certificate (a.k.a. “digital certificate”) is installed on a web server and has two functions: It authenticates the identity of the website to visitors, and it is used for data encryption.
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : ssh-keygen = command to manually generate a pair of keys as files in .ssh hidden directory
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : ssh.com = SSH Communications Security, Inc. , proprietary SSH solutions
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : ssh UKM (Universal Key Management) - https://www.ssh.com/products/universal-ssh-key-manager -
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : OpenSSH – Open-source SSH implementation - https://www.openssh.com/
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : Single Sign-On - https://en.wikipedia.org/wiki/Single_sign-on - authentication scheme that allows a user to log in once - and access multiple services without re-authenticating. User authenticates with an Identity Server which issues a token. User uses this token to access services. A service verifies the token with Identity Server before giving access.
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : Token = a collection of data about the user which is passed between systems for getting access. Tokens must be digitally signed for the token receiver to verify that the token is coming from a trusted source. The certificate that is used for this digital signature is exchanged during the initial configuration process.
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : https://jwt.io/  - JSON Web Tokens , http://www.passportjs.org/ - authentication middleware
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : https://firebase.google.com/ - platform from Google for creating mobile and web applications. Includes authentication and tokens.
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : Oauth 2.0 - https://oauth.net/2/ - open standard for access delegation, commonly used as a way for Internet users to grant websites or applications access to their information on other websites but without giving them the passwords.
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : YubiKey - a small USB device used to authenticate logins - https://www.yubico.com/products/ . On touch it sends a string containing it's public_id and AES-encrypted OTP (One-Time Password).
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : Tatu Ylönen,
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : in 1995 invented the SSH protocol and founded ssh.com
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : (SSH Communications Security, Inc.)
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : Taher Elgamal
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : "Father of SSL"
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : Netscape 1995-98
+SSH_SSL_Single_Sign_On_Auth_Token.pptx : SSL was deprecated in 2015
+TimeXtender.pptx : TimeXtender
+TimeXtender.pptx : Website:
+TimeXtender.pptx : - https://www.timextender.com/
+TimeXtender.pptx : Short Demo:
+TimeXtender.pptx : - https://www.youtube.com/watch?v=r8ejCOT2voY
+TimeXtender.pptx : About the company:
+TimeXtender.pptx : - https://www.owler.com/company/timextender
+TimeXtender.pptx : CEO: Heine Krog Iversen
+TimeXtender.pptx : - https://www.linkedin.com/in/heinekrogiversen/
+TimeXtender.pptx : TimeXtender's top competitor is Targit A/S,
+TimeXtender.pptx : led by Len Emmick, who is their CEO.
+TimeXtender.pptx : TimeXtender is an automated data management platform for Microsoft platform
+TimeXtender.pptx : that helps implement and operate data lakes, data warehouses, and data marts
+TimeXtender.pptx : – without writing code –
+TimeXtender.pptx : automating the process of getting data ready for analysis.
+TimeXtender.pptx : 
+TimeXtender.pptx : By automating manual code and eliminating the need for disparate tools,
+TimeXtender.pptx : TimeXtender enables users to Create, maintain, and document a Modern Data Estate,
+TimeXtender.pptx : reducing costs by 70-80% and improving time to data insight by up to 10x.
+TimeXtender.pptx : Heine Krog Iversen
+TimeXtender.pptx : TimeXtender CEO
+VDI_Virtual_Desktop_Infrastructure.pptx : VDI – Virtual Desktop Infrastructure
+VDI_Virtual_Desktop_Infrastructure.pptx : VDI is a desktop virtualization technique to use VMs to provision and manage applications and virtual desktops.
+VDI_Virtual_Desktop_Infrastructure.pptx : 
+VDI_Virtual_Desktop_Infrastructure.pptx : VDI hosts the desktop environments—including the OSs, applications and desktops—on servers in a datacenter and deploys them to end-users on request.
+VDI_Virtual_Desktop_Infrastructure.pptx : 
+VDI_Virtual_Desktop_Infrastructure.pptx : https://www.parallels.com/blogs/ras/vdi-vs-vm/
+VDI_Virtual_Desktop_Infrastructure.pptx : 
+VDI_Virtual_Desktop_Infrastructure.pptx : Persistent VDI (a.k.a. stateful VDI) - end-users maintain their personalized settings, store data and even configure instances that they can retrieve each time they log in. So persistent VDIs act exactly as physical PCs.
+VDI_Virtual_Desktop_Infrastructure.pptx : 
+VDI_Virtual_Desktop_Infrastructure.pptx : Non-persistent VDI (a.k.a. stateless VDI) - where end users cannot retain their data and configurations because they get destroyed after each session.
+VDI_Virtual_Desktop_Infrastructure.pptx : Benefits of VDI:
+VDI_Virtual_Desktop_Infrastructure.pptx : 
+VDI_Virtual_Desktop_Infrastructure.pptx : simplifies administration – via central location. Deploy app in just one place
+VDI_Virtual_Desktop_Infrastructure.pptx : enhances security (everything stored centrally)
+VDI_Virtual_Desktop_Infrastructure.pptx : enhances productivity (can work from anywhere, easy to collaborate)
+VDI_Virtual_Desktop_Infrastructure.pptx : saves money (reduce hardware expenses)
+VDI_Virtual_Desktop_Infrastructure.pptx : highly scalable
+_Life_Lose_Weight.pptx : Almost everyone is on a diet – but most people fail to lose weight long term.
+_Life_Lose_Weight.pptx : According to the data of American National Weight Control Registry, the probability of losing 30+ lbs and keeping it off for just 1 year is less than 1 in 10,000.
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : For 15 years I was failing too. I tried different approaches. Finally I started to succeed.
+_Life_Lose_Weight.pptx : I slowly lost more than 60 lbs - I am definitely in “1 in 10,000” category mentioned above.
+_Life_Lose_Weight.pptx : This presentation describes what really works (and what doesn’t).
+_Life_Lose_Weight.pptx : And how to be healthy and live longer (like people in “Blue Zones” – later in this presentation).
+_Life_Lose_Weight.pptx : 268 lbs in 2010
+_Life_Lose_Weight.pptx : 208 lbs in 2017
+_Life_Lose_Weight.pptx : You feel tired / hungry
+_Life_Lose_Weight.pptx : You eat “modern” food (something sweet, bread, burger, etc.), it causes strong spike of sugars in your  blood, you feel better
+_Life_Lose_Weight.pptx : Pancreas releases insulin to send signal to all cells to absorb sugar from blood.
+_Life_Lose_Weight.pptx : Big insulin level causes decreasing of sugar levels to normal – and then below (over-regulation)
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : Marathoner and sweet water
+_Life_Lose_Weight.pptx : Do not eat to get energy from food.
+_Life_Lose_Weight.pptx : Instead do something to give your body time to switch gears to start using your internal energy. Like marathoner. Eat a fruit or salad, drink water (or salt water ?), walk, breathe, wait 15 min.
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : You need to avoid spikes of insulin, because they cause sugar level to go below normal and cause “Vicious Circle”.
+_Life_Lose_Weight.pptx : So - avoid sweet foods or drinks, avoid big meals, avoid highly-processed foods, avoid animal products. Especially avoid combinations of carbs with animal products.
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : Why you need to eat? Habits? Social reasons? You don’t need to eat much to get energy. But you need to get vitamins, minerals, some microelements. So eat berries, fruits, vegetables, legumes. Don’t be afraid of not eating. Body can use its own storage for energy. Remember that the longest fast was 382 days !
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : Eat natural whole foods, mostly plants. Drink water. Have enough sleep. Walk and exercise every day. Think good thoughts, love yourself, reduce stress. Easy 
+_Life_Lose_Weight.pptx : What to eat when you tired, nervous, hungry?
+_Life_Lose_Weight.pptx : Should a marathon runner add sugars into water in the middle of the race to get more energy? No, No, No !!! The drink will not contain enough energy and will not be metabolized fast enough. But the sugar in it will be interpreted by the body as a signal to shut down the process of getting energy from internal sources (fat). The marathoner will feel more tired and can crash.
+_Life_Lose_Weight.pptx : Vicious Circle
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : I highly recommend to listen to some episodes of the
+_Life_Lose_Weight.pptx : "Big Change the Film" series by Jason Cohen.
+_Life_Lose_Weight.pptx : You can find it on youtube or iTunes:
+_Life_Lose_Weight.pptx : on YouTube: - https://www.youtube.com/channel/UCzFwW-13NfNBAtGbJxvJsQQ/videos
+_Life_Lose_Weight.pptx : on iTunes: - https://itunes.apple.com/us/podcast/big-change-the-film-podcast/id1093956175?mt=2
+_Life_Lose_Weight.pptx : Specifically it is about removing mostly or completely:
+_Life_Lose_Weight.pptx : all animal products (no meats, chicken, eggs, dairy)
+_Life_Lose_Weight.pptx : all highly processed products (sugars, sodas, oils, etc.).
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : The most difficult for me was removing milk and cheese.
+_Life_Lose_Weight.pptx : The strangest for me was removing oils.
+_Life_Lose_Weight.pptx : Yes, no oil, not even olive oil, etc.
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : Good foods are greens, beans, berries, vegetables, nuts and seeds, rice, oats, buckwheat, etc.
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : There are many scientists describing how to live this way.
+_Life_Lose_Weight.pptx : Main famous names:
+_Life_Lose_Weight.pptx : Dr. John McDougall
+_Life_Lose_Weight.pptx : Dr. Joel Fuhrman
+_Life_Lose_Weight.pptx : Dr. Caldwell Esselstyn - and his son Rip Esselstyn
+_Life_Lose_Weight.pptx : Dr. Michael Greger
+_Life_Lose_Weight.pptx : Dr. Neal Barnard
+_Life_Lose_Weight.pptx : Dr. Dean Ornish
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : You can find their lectures and interviews on youtube.
+_Life_Lose_Weight.pptx : There are also many books by those authors.
+_Life_Lose_Weight.pptx : Many websites and communities joining people.
+_Life_Lose_Weight.pptx : Also there are great documentaries (look at Netflix and Google):
+_Life_Lose_Weight.pptx : Forks Over Knives (2011)
+_Life_Lose_Weight.pptx : What The Health (2017)
+_Life_Lose_Weight.pptx : The Human Longevity Project (2018)
+_Life_Lose_Weight.pptx : etc.
+_Life_Lose_Weight.pptx : As of today (June 1, 2018) there are 96 interviews so far. They are stories of people who lost weight - and kept it off. And have become much healthier.
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : After multiple attempts they all converge to the same approach.
+_Life_Lose_Weight.pptx : It is NOT about dieting (eating less to reduce calories).
+_Life_Lose_Weight.pptx : It is NOT about exercising to reduce calories.
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : It is about switching to more nutritious foods (whole foods, mostly plant-based) and removing dead and toxic foods. It is about switching from standard American diet to diet close to that used by people living in "Blue Zones" and staying healthy for much longer than average Americans.
+_Life_Lose_Weight.pptx : Here is a short list of most effective things people do to lose weight:
+_Life_Lose_Weight.pptx : - keep insulin low
+_Life_Lose_Weight.pptx : - remove some "dead or toxic" foods, increase amounts of fresh nutritious whole foods.
+_Life_Lose_Weight.pptx : 1. no sugar and no flour – only whole natural foods.
+_Life_Lose_Weight.pptx : Avoid all sweet taste (no sugar, no juices or sodas, etc.).Avoid all flour-containing foods (no bread, pasta, chips, etc.)
+_Life_Lose_Weight.pptx : Avoid all highly-processed food, “empty” calories, fatty foods and oils. Yes, not even olive oil in salad.2. intermitting fasting.
+_Life_Lose_Weight.pptx : No snacking between meals – give time to allow insulin to go down.
+_Life_Lose_Weight.pptx : Eat 2-3 times/day. Have one long fast (no-eating period – 12..16 hours long) every day. Simple strategy - eat breakfast (8am), lunch (1pm), and small early dinner (6pm). Fasting 14 hrs (6pm-8am)
+_Life_Lose_Weight.pptx : 3. Eat lots of greens, vegetables, beans, fruits & berries.
+_Life_Lose_Weight.pptx : Eat mostly Low-Calorie-Density natural foods (vegetables and fruits, fresh or minimally processed).
+_Life_Lose_Weight.pptx : You may have huge meals - and still lose weight very fast. Example: 1000 calories = 9 lbs of raw lettuce salad or spinach or other green leaves or cabbage or cauliflower,
+_Life_Lose_Weight.pptx : or 6 lbs of raw broccoli
+_Life_Lose_Weight.pptx : or 5 lbs of carrots,
+_Life_Lose_Weight.pptx : or 4 lbs of apples.
+_Life_Lose_Weight.pptx : Attention – do not use oily dressing, because it can easily quadruple calories.
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : 4. Reduce (or completely eliminate) animal products and oils
+_Life_Lose_Weight.pptx : (no meat, no chicken, no eggs, no dairy: no milk, no cheese, etc.) and no oils (not even olive oil).
+_Life_Lose_Weight.pptx : Notes:-- losing weight on "will power" doesn't work long term
+_Life_Lose_Weight.pptx : -- "eat less, exercise more" formula doesn't work long term:     -- eating less - causes metabolism slowdown and doesn't work long term for 95% of people.     -- exercise - contributes less than 5% (if any) if you consider long term. -- eat lots of vegetables. Find a way to add a big serving of salad / vegetables to each meal.    You can eat lots of cabbage, spinach, etc. -- you don’t need extra protein from meat, etc. You get it from vegetables and beans.
+_Life_Lose_Weight.pptx : -- you don’t need milk for calcium. In fact you should stay off milk products (or use only goat or sheep milk).
+_Life_Lose_Weight.pptx : -- you don’t need vitamin pills – you will get everything from food.    (you do need some sun for vitamin D, and you need vitamin B12 supplements)
+_Life_Lose_Weight.pptx : -- eating snacks between meals is bad. You should eat at maximum 3 times per day.    Snacks are more harmful than eating big meals.    It is very important to avoid snacking between meals - to allow insulin levels to decrease.    - https://intensivedietarymanagement.com/perils-snacking-hormonal-obesity-xiii/ - oscillating (eat - stop_eat, a.k.a. intermittent fasting) works.    And it doesn't cause metabolic slowdown. It doesn’t make you hungry.- Note (important!) - the world record in long fasting is 382 days !     - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2495396/ -     - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2495396/pdf/postmedj00315-0056.pdf - You need to have long periods of not-eating to allow body to lose weight. Recommended lengths of regular fasting are anywhere between 12 hours to several days. - https://intensivedietarymanagement.com/fasting-regimens-part-6/ - - https://intensivedietarymanagement.com/longer-fasting-regimens-part-7/ -
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : Notes:- damaged metabolism (even type-2 diabetes) can be reversed in just 2 weeks    using natural eating (no sugar, no flower, etc. - only natural foods)
+_Life_Lose_Weight.pptx : plus some fasting - removing stress and oscillating between activity and rest is very important. - inner work.
+_Life_Lose_Weight.pptx : I took the course "Bright Line Healing", which is associated with "Bright Line Eating".     Basic approach - remove judgement and shame, love yourself unconditionally as you are.    Talk to your compulsion as it is a small child inside of you.     No accusations, no blame, no guilt, no war.     Instead - love, care, game, humor, patience.     (awareness, surrender, forgiveness, connection)     This is best explained by Mary O'Malley (search for her on youtube and on amazon).
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : What do I do?
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : I removed sugar almost completely (and removed all sweet taste). I removed bread, pasta, and all other products made of flour. I try to eat mostly Low-Calorie-Density foods (salads, vegetables) and reduce amount of High-Calorie-Density foods (oils, cheese, nuts, raisins, etc.).
+_Life_Lose_Weight.pptx : I try to reduce portions at night.I weigh myself daily and keep records with phone app "MyFitnessPal" - this helps me to keep track and make adjustments.
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : Here are the top links describing the methods I am using:
+_Life_Lose_Weight.pptx : - Youtube – “NutritionFacts.org” - Dr. Michael Greger, How Not to Die, How Not to Diet
+_Life_Lose_Weight.pptx : - Youtube – “Mic the Vegan” - https://www.drmcdougall.com - (book “The Starch Solution” - by John McDougall (vegetables and starches))- https://intensivedietarymanagement.com (Jason Fung - book "Obesity Code") - http://www.leangains.com - (intermitting fasting) - http://www.eatstopeat.com - (intermitting fasting)
+_Life_Lose_Weight.pptx : - http://www.ariwhitten.com - (weight loss and energy) - https://brightlineeating.com/ - (Susan Peirce Thompson - book and BLE program)
+_Life_Lose_Weight.pptx : - http://www.maryomalley.com - (about loving and accepting yourself) - https://bluezones.com - eye-opening wisdom from Earth longest-living people (book “Blue Zones Solution”)
+_Life_Lose_Weight.pptx : - https://www.youtube.com/watch?v=0CdwWliv7Hg - Jeff Novick - Calorie Density- https://www.youtube.com/watch?v=B6fcMML8-6Q - PTs about - Calorie Density- https://www.youtube.com/watch?v=6PkJ1MO-LNQ - What The Health Documentary 2017
+_Life_Lose_Weight.pptx : Bad
+_Life_Lose_Weight.pptx : Good
+_Life_Lose_Weight.pptx : Healthy
+_Life_Lose_Weight.pptx : Unhealthy
+_Life_Lose_Weight.pptx : From Jeff Novick
+_Life_Lose_Weight.pptx : Okinawa Diet - https://en.wikipedia.org/wiki/Okinawa_dietOkinawa is one of “Blue Zones” – places with highest concentration of healthy 100+ year old people. People from the Ryukyu Islands (of which Okinawa is the largest) have a life expectancy among the highest in the world.
+_Life_Lose_Weight.pptx : Also they have low mortality from cardiovascular disease and certain types of cancers.  Compared age-adjusted mortality of Okinawans versus Americans (1995) average Okinawan was:
+_Life_Lose_Weight.pptx : - 8 times less likely to die from coronary heart disease,
+_Life_Lose_Weight.pptx : - 7 times less likely to die from prostate cancer,
+_Life_Lose_Weight.pptx : - 6.5 times less likely to die from breast cancer,
+_Life_Lose_Weight.pptx : - and 2.5 times less likely to die from colon cancer
+_Life_Lose_Weight.pptx : Recently numbers got worse because young people shift to Western diet.
+_Life_Lose_Weight.pptx : What is the magic of the “old diet?
+_Life_Lose_Weight.pptx : In short, the Okinawans circa 1950 ate mostly sweet potatoes, with some rice, legumes, and other grains. Of the 1262 grams of food per day:  849-sweet potato, 154-rice, 71-legumes, 38-grains, 150-everything else.
+_Life_Lose_Weight.pptx : The dietary intake of Okinawans compared to other Japanese circa 1950 shows that Okinawans consumed:
+_Life_Lose_Weight.pptx : - fewer total calories (1785 vs. 2068),
+_Life_Lose_Weight.pptx : - less polyunsaturated fat (4.8% of calories vs. 8%),
+_Life_Lose_Weight.pptx : - less rice (154g vs. 328g),
+_Life_Lose_Weight.pptx : - significantly less wheat, barley and other grains (38g vs. 153g),
+_Life_Lose_Weight.pptx : - less sugars (3g vs. 8g),
+_Life_Lose_Weight.pptx : - more legumes (71g vs. 55g),
+_Life_Lose_Weight.pptx : - significantly less fish (15g vs. 62g),
+_Life_Lose_Weight.pptx : - significantly less meat and poultry (3g vs. 11g),
+_Life_Lose_Weight.pptx : - less eggs (1g vs. 7g),
+_Life_Lose_Weight.pptx : - less dairy (<1g vs. 8g),
+_Life_Lose_Weight.pptx : - much more sweet potatoes (849g vs. 66g),
+_Life_Lose_Weight.pptx : - less other potatoes (2g vs. 47g),
+_Life_Lose_Weight.pptx : - less fruit (<1g vs. 44g),
+_Life_Lose_Weight.pptx : - and no pickled vegetables (0g vs. 42g). [4]
+_Life_Lose_Weight.pptx : Some people achieve good results using support groups. If you want to be a part of some program, I highly recommend Susan Peirce's program ”Bright Line Eating” (BLE). It grew from Food Addicts Anonymous (FAA) 12-step program, but it is more flexible, scientific, provides support via internet, and at this point in time it is the most effective program in existence:  - https://brightlineeating.com/
+_Life_Lose_Weight.pptx : You can buy Susan’s book on amazon. Also here is Susan's book launch presentation slides from March of 2017:  - https://brightlineeating.com/wp-content/uploads/2017/03/BLE-Book-Launch-PowerPoint.pdf
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : About 12-step programs - there are many of them, for example:• 1939 – Alcoholics Anonymous (AA) • 1960 – Overeaters Anonymous (OA)     - Food Addicts Anonymous (FAA) (1987)     - Anorexics and Bulimics Anonymous (ABA) (1993)     - Compulsive Eaters Anonymous-HOW (CEA-HOW) (1996)     - Food Addicts in Recovery Anonymous (FA) (1998)     - Eating Disorders Anonymous (EDA) (2000)     - GreySheeters Anonymous (GSA)     - Recovery From Food Addiction, Inc. (RFA)     - Food Compulsions Anonymous (FCA) The 12-step groups work well for some people because they provide personal support which is very important for people who are high on susceptibility scale (a.k.a. food addicts). But results will depend on specific group. You need a group where people achieve results. If people just meet to wine and complain - this will not be effective. Also you need a group where people use modern scientific-based approach.
+_Life_Lose_Weight.pptx : How to eat at different places:
+_Life_Lose_Weight.pptx : Chinese – “Buddha's Delight” – steamed vegetables, no oil, with sauce on the side + rice + tofu
+_Life_Lose_Weight.pptx : - http://www.eatthis.com/8-diet-experts-order-chinese-restaurants
+_Life_Lose_Weight.pptx : McDonalds - Basic Side Salad, Fruit (Apple Slices and Cuties), Fruit & Maple Oatmeal
+_Life_Lose_Weight.pptx : Generic restaurant - ask to make a plate of greens, vegetables, berries, and fruits, no oil, no dressing
+_Life_Lose_Weight.pptx : Mexican restaurants – I usually order salad without dressing, salsa without chips, coffee, some fruits or berries for dessert
+_Life_Lose_Weight.pptx : Coffee shops – I take 1-shot espresso + oat or soy milk + cold water
+_Life_Lose_Weight.pptx : Calories in Coffee (8oz - small):
+_Life_Lose_Weight.pptx : - Cappuccino with half & half – 330
+_Life_Lose_Weight.pptx : - Cappuccino with whole milk – 113
+_Life_Lose_Weight.pptx : - Latte with 2% milk – 95
+_Life_Lose_Weight.pptx : - Americano – 8
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : Calories in some products:
+_Life_Lose_Weight.pptx : - Hazelnuts (12) – 100
+_Life_Lose_Weight.pptx : - brazil nut (1) - 33
+_Life_Lose_Weight.pptx : - Raisins (50) - 80
+_Life_Lose_Weight.pptx : - Apple or similar size fruit (1 medium) - 90
+_Life_Lose_Weight.pptx : - Potato (1 medium) - 160
+_Life_Lose_Weight.pptx : - banana (1 medium) - 105
+_Life_Lose_Weight.pptx : More links:
+_Life_Lose_Weight.pptx : - https://www.veghealth.com - Discover How to Thrive on a Vegetarian Diet and Stop
+_Life_Lose_Weight.pptx : Being Vulnerable to Vitamin and Mineral Deficiencies
+_Life_Lose_Weight.pptx : - https://youtu.be/LkXwfTsqQgQ - muscles matter
+_Life_Lose_Weight.pptx : - https://youtu.be/0z03xkwFbw4 - custom diets for different people (depends on microbiome)
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : - http://www.npr.org/sections/thesalt/2015/04/11/398325030/eating-to-break-100-longevity-diet-tips-from-the-blue-zones -
+_Life_Lose_Weight.pptx : from the book “The Blue Zones Solution” by  Dan Buettner, National Geographic explorer
+_Life_Lose_Weight.pptx : - Stop eating when your stomach is 80 percent full to avoid weight gain.
+_Life_Lose_Weight.pptx : - Eat the smallest meal of the day in the late afternoon or evening.      - Eat mostly plants, especially beans. And eat meat rarely, in small portions of 3 to 4 ounces.         Blue Zoners eat portions this size just five times a month, on average.      - Drink alcohol moderately and regularly, i.e. 1-2 glasses a day.
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : Five Blue Zones:
+_Life_Lose_Weight.pptx : - Ikaria, Greece - potatoes, goat's milk, honey, legumes (especially garbanzo beans, black-eyed peas, and lentils), wild greens, some fruit and relatively small amounts of fish, feta cheese, lemons and herbs like sage and marjoram. Rarely goat meat.  - Okinawa, Japan - seaweed, turmeric and sweet potato, bitter melons, tofu, garlic, brown rice, green tea and shitake mushrooms.
+_Life_Lose_Weight.pptx : - Sardinia, Italy - goat's milk and sheep's cheese, flat bread, sourdough bread and barley, plenty of fennel, fava beans, chickpeas, tomatoes, almonds, milk thistle tea and wine from Grenache grapes.
+_Life_Lose_Weight.pptx : - Loma Linda, Calif - Seventh-day Adventists - mostly plant-based diet (grains, fruits, nuts and vegetables, and drink only water. Some of them eat small amounts of meat and fish.) Sugar is taboo. Their top foods include avocados, salmon, nuts, beans, oatmeal, whole wheat bread and soy milk. Pesco-vegetarians in the community, who ate a plant-based diet with up to one serving of fish a day, lived longer than vegan Adventists. - Nicoya Peninsula, Costa Rica - beans, corn and squash. papayas, yams, bananas and peach palms (fruit).
+_Life_Lose_Weight.pptx : Blue Zones – 9 principles.
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : People who live in a Blue Zone have nine characteristics in common, according to researchers. For the Blue Zones Project, these are called "Power 9 Principles.”
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : 1. Move naturally - Get more physically active by walking in the community, do manual labor around the house and yard, and grow gardens.
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : 2. Know your purpose - People who know why they get up in the morning live up to seven years longer than those who don't.
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : 3. Down shift - To reverse inflammation related to every major age-related disease, find time each day to meditate, nap, pray or enjoy a happy hour.
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : 4. 80 percent rule - It takes the stomach 20 minutes to tell the brain it is full, causing most people to accidentally overeat. Stop eating when 80 percent full.
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : 5. Plant slant - Eat a mostly plant-based diet heavy on beans, nuts and green plants. This is consistent with U.S. Department of Agriculture recommendations.
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : 6. Wine at 5 - For those who have a healthy relationship with alcohol, 1-2 glasses of wine daily can add years to a life, especially when combined with a healthy diet.
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : 7. Family first - Living in a thriving family is worth six extra years of life expectancy.
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : 8. Belong - Recommit, reconnect or explore a faith-based community. No matter which faith, studies show that people who show up to their faith community four times a month live an extra four to 14 years.
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : 9. Right tribe - Friends have a long-term impact on well-being. Expand a social circle to include healthy-minded, supportive people. This could be the most powerful way to add years to a life.
+_Life_Lose_Weight.pptx : Here are some links about exercising:
+_Life_Lose_Weight.pptx : Flexibility - Tom Merrick  - https://youtu.be/hoQbrx955-8  - https://www.youtube.com/watch?v=QT4hvcIjKtc Flexibility - Emmet Louis  - https://www.youtube.com/watch?v=askyPISMogs  - https://www.youtube.com/watch?v=3HVsDRjOHqU
+_Life_Lose_Weight.pptx : - https://www.youtube.com/watch?v=2KDJdDfaEHM
+_Life_Lose_Weight.pptx : Strength max load (1-4 reps, 4 sets/day):
+_Life_Lose_Weight.pptx : - https://www.youtube.com/watch?v=q0bo-kDHT7Y Strength – endurance (more pullups)
+_Life_Lose_Weight.pptx : (3 variations, 3 sets each – 9 sets total at ~70% of max
+_Life_Lose_Weight.pptx : or go to max. number of sets. At the end – hold and slow release):
+_Life_Lose_Weight.pptx : - https://www.youtube.com/watch?v=gROqn53az2g
+_Life_Lose_Weight.pptx : - https://www.youtube.com/watch?v=nj_bOz2aigQ
+_Life_Lose_Weight.pptx : - https://www.youtube.com/watch?v=NnN8ksvVRIQ
+_Life_Lose_Weight.pptx : Yoga - yogaglo:  https://www.youtube.com/user/yogaglo Yoga for surfers (17 min): https://www.youtube.com/watch?v=oX6I6vs1EFs Yoga with Adriene: https://www.youtube.com/watch?v=v7AYKMP6rOE
+_Life_Lose_Weight.pptx : 
+_Life_Lose_Weight.pptx : Also – walk/run (with your dog), play outside, etc. – 30-90 min/day. The more – the better.
+unix_Ken_Thompson.pptx : Unix history:
+unix_Ken_Thompson.pptx : 
+unix_Ken_Thompson.pptx : Unix is the dominating OS (~2 Bln android devices, ~1 Bln iOS devices, ~1 Bln servers in clouds, 100 Mln Macs, etc.).
+unix_Ken_Thompson.pptx : 
+unix_Ken_Thompson.pptx : Ken Thompson has created Unix OS in 1969.
+unix_Ken_Thompson.pptx : Nowadays he works at Google as one of creators of the “Go” language:
+unix_Ken_Thompson.pptx : - https://www.youtube.com/watch?v=sln-gJaURzk -
+unix_Ken_Thompson.pptx : 
+unix_Ken_Thompson.pptx : In this article ( http://www.linfo.org/thompson.html ) you will learn how
+unix_Ken_Thompson.pptx : Ken Thompson has developed the UNIX operating System in assembly
+unix_Ken_Thompson.pptx : language (to assist himself in playing and creating computer games)
+unix_Ken_Thompson.pptx : in ~1969, then created the B-language, and later rewrote it’s
+unix_Ken_Thompson.pptx : kernel in C-language developed by Dennis Ritchie in ~1972
+unix_Ken_Thompson.pptx : First UNIX was running on computer with only 4K of memory!
+unix_Ken_Thompson.pptx : 
+unix_Ken_Thompson.pptx : Then Thompson returned to UCB (University California Berkeley)
+unix_Ken_Thompson.pptx : and while being there in 1975-76, he introduced people there to Unix,
+unix_Ken_Thompson.pptx : which started the UCB clone of Unix (BSD = Berkeley Software Distribution).
+unix_Ken_Thompson.pptx : This later became the foundation of Mach OS for Steve Job’s NeXT Station,
+unix_Ken_Thompson.pptx : which was later acquired by Apple, and is the heart of modern MacOS and iOS.
+unix_Ken_Thompson.pptx : 
+unix_Ken_Thompson.pptx : Linux is an independent open source POSIX implementation of Unix.
+unix_Ken_Thompson.pptx : Android OS is a Google’s version of Linux (android phones & tablets).
+unix_Ken_Thompson.pptx : 1980s - Richard Stallman creates a free software movement (GNU project)
+unix_Ken_Thompson.pptx : which led to development of numerous software tools.
+unix_Ken_Thompson.pptx : 1991 - Linus Torvalds, young student at the University of Helsinki in Finland,
+unix_Ken_Thompson.pptx : releases (posts on the Internet under GNU license) the first version
+unix_Ken_Thompson.pptx : of Linux's kernel (Ver. 0.02), which he developed as a hobby.
+unix_Ken_Thompson.pptx : Linus Torvalds
+unix_Ken_Thompson.pptx : Ken Thompson (born 1943)
+unix_Ken_Thompson.pptx : "vi" editor on Unix was written by Bill Joy in 1976, as the visual mode for
+unix_Ken_Thompson.pptx : a line editor called "ex" that Joy had written with Chuck Haley.
+unix_Ken_Thompson.pptx : Bill Joy's ex 1.1 was released as part of the first BSD Unix release in March 1978.
+unix_Ken_Thompson.pptx : 
+unix_Ken_Thompson.pptx : - https://en.wikipedia.org/wiki/Ken_Thompson - 77 years old in 2020
+unix_Ken_Thompson.pptx : - https://en.wikipedia.org/wiki/Dennis_Ritchie - Dennis Ritchie has died in 2011
+unix_Ken_Thompson.pptx : - http://charles.the-haleys.org - Charles B. Haley (co-author of “ex” editor)
+unix_Ken_Thompson.pptx : - https://www.youtube.com/watch?v=LN2shXeJNz8 - Bill Joy
+unix_Ken_Thompson.pptx : Bill Joy
+unix_Ken_Thompson.pptx : (co-founded Sun Microsystems in 1982
+unix_Ken_Thompson.pptx : Chuck Haley
+unix_Ken_Thompson.pptx : vi  editor
