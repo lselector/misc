@@ -1,5 +1,6 @@
 
 neo4j vs orientdb
+
 The comparisons are clearly in favor of Neo4j. 
 The only thing that sets OrientDB apart is that 
 it's a "jack of all trades": 
@@ -27,3 +28,20 @@ RDF = Resource Description Framework - a graph data modeli
       It also represents metadata, that is, data about data. 
       RDF consists of triples. ... i
       The parts of a triple (subject, predicate, object) represent links in a graph.
+
+AWS:
+Amazon Neptune - Fast, reliable graph database built for the cloud
+ - https://aws.amazon.com/neptune/
+
+Azure:
+Neo4j on Azure:
+ - https://neo4j.com/partners/microsoft-azure/
+Cosmos DB can work as Graph DB:
+ - https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction
+
+Google Cloud:
+Running JanusGraph with Cloud Bigtable
+ - https://cloud.google.com/architecture/running-janusgraph-with-bigtable
+Neo4j Auro on GCP:
+ - https://neo4j.com/neo4j-for-google-cloud/
+
